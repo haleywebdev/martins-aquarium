@@ -1,0 +1,24 @@
+*{
+    border: 1px dotted;
+}
+
+.header {
+    text-align: center;
+}
+
+.aquarium {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.tank {
+    flex: 3;
+}
+
+.fishCare {
+    flex: 1;
+}
+
+.footer {
+    text-align: center;
+}
